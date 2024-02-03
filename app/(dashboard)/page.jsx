@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main>
       <h2>Dashboard</h2>
-      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vero repellendus tempore, exercitationem odit, quasi doloremque possimus recusandae alias sequi totam soluta natus iure eius, obcaecati sint dolores blanditiis aspernatur quo officia iusto ut. Et, aliquid sed voluptates iste cum totam, facere explicabo, fugit suscipit ratione aspernatur consequuntur ex mollitia quaerat?</p>
+      <p>The Helpdesk is designed to streamline the process of managing support or service requests within an organization. It enables users to submit tickets detailing their issues or requests, categorize them according to priority levels (high, mid, low), and manage these tickets through a user-friendly interface. The system ensures efficient tracking and resolution of requests, enhancing the overall support process.</p>
 
       <div className="flex justify-center my-8">
         <Link href="/tickets">
