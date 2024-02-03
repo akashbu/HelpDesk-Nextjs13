@@ -15,7 +15,7 @@ export async function generateMetadata({ params }) {
     .single()
  
   return {
-    title: `Dojo Helpdesk | ${ticket?.title || 'Ticket not Found'}`
+    title: `Helpdesk | ${ticket?.title || 'Ticket not Found'}`
   }
 }
 
